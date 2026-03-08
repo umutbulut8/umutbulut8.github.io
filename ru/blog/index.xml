@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | </title>
+    <link>https://umutbulut8.github.io/ru/blog/</link>
+      <atom:link href="https://umutbulut8.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://umutbulut8.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Blog</title>
+      <link>https://umutbulut8.github.io/ru/blog/</link>
+    </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://umutbulut8.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://umutbulut8.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя в университете прошла активно и продуктивно. Каждый день приносил новые знания, практические задания и возможность лучше понять сферу компьютерных наук.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; я продолжил изучать основы алгоритмов и структуры программ. Постепенно становится легче понимать логику решения задач.&lt;/li&gt;
+&lt;li&gt;🧠 На лекциях по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; мы рассматривали способы оптимизации программ и эффективность различных алгоритмов.&lt;/li&gt;
+&lt;li&gt;🗄️ Изучал основы &lt;strong&gt;баз данных&lt;/strong&gt; и понял, насколько важна правильная организация хранения информации в современных системах.&lt;/li&gt;
+&lt;li&gt;⚙️ Работал над небольшими учебными проектами и практическими задачами, чтобы закрепить полученные знания на практике.&lt;/li&gt;
+&lt;li&gt;📚 Дополнительно уделил время самостоятельному изучению новых технологий и материалов по программированию.&lt;/li&gt;
+&lt;li&gt;🌿 Постарался сохранить баланс между учебой и отдыхом — иногда полезно сделать паузу, чтобы с новыми силами продолжать работу.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая неделя обучения помогает мне лучше понимать сферу &lt;strong&gt;компьютерных наук&lt;/strong&gt;, развивать навыки программирования и постепенно двигаться к будущей карьере в IT.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

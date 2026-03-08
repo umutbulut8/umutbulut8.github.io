@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://umutbulut8.github.io/ru/publications/</link>
+      <atom:link href="https://umutbulut8.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://umutbulut8.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Publications</title>
+      <link>https://umutbulut8.github.io/ru/publications/</link>
+    </image>
+    
+    <item>
+      <title>Непрерывное развертывание</title>
+      <link>https://umutbulut8.github.io/ru/publications/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://umutbulut8.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-cicd&#34;&gt;🚀 Что такое CI/CD?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;CI/CD (Continuous Integration / Continuous Deployment)&lt;/strong&gt; — это современный подход к разработке программного обеспечения, который позволяет автоматически тестировать, собирать и развёртывать приложения.&lt;/p&gt;
+&lt;p&gt;Этот подход широко используется в современной разработке, потому что помогает быстрее выпускать обновления и поддерживать стабильность программных продуктов.&lt;/p&gt;
+&lt;p&gt;CI/CD состоит из двух основных частей:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Integration (CI)&lt;/strong&gt; — непрерывная интеграция&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Deployment / Continuous Delivery (CD)&lt;/strong&gt; — непрерывная доставка и развёртывание&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-непрерывная-интеграция-continuous-integration&#34;&gt;🔧 Непрерывная интеграция (Continuous Integration)&lt;/h2&gt;
+&lt;p&gt;Непрерывная интеграция означает, что разработчики регулярно добавляют изменения в общий репозиторий проекта.&lt;/p&gt;
+&lt;p&gt;Каждый раз, когда код добавляется в репозиторий:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;автоматически запускается сборка проекта&lt;/li&gt;
+&lt;li&gt;выполняются автоматические тесты&lt;/li&gt;
+&lt;li&gt;система проверяет, не возникли ли ошибки&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Это позволяет быстро обнаружить проблемы и исправить их ещё на раннем этапе разработки.&lt;/p&gt;
+&lt;p&gt;Основные преимущества CI:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;более стабильный код&lt;/li&gt;
+&lt;li&gt;быстрое обнаружение ошибок&lt;/li&gt;
+&lt;li&gt;упрощение командной работы&lt;/li&gt;
+&lt;li&gt;ускорение разработки&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-непрерывная-доставка-и-развёртывание&#34;&gt;⚙️ Непрерывная доставка и развёртывание&lt;/h2&gt;
+&lt;p&gt;После успешной интеграции кода начинается следующий этап — &lt;strong&gt;CD&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;continuous-delivery&#34;&gt;Continuous Delivery&lt;/h3&gt;
+&lt;p&gt;В этом случае приложение автоматически подготавливается к выпуску.&lt;br&gt;
+Каждое изменение проходит тестирование и может быть развернуто в любой момент.&lt;/p&gt;
+&lt;h3 id=&#34;continuous-deployment&#34;&gt;Continuous Deployment&lt;/h3&gt;
+&lt;p&gt;Это более автоматизированный процесс.&lt;br&gt;
+Если код успешно прошёл все проверки и тесты, система &lt;strong&gt;автоматически развёртывает новую версию приложения на сервере&lt;/strong&gt; без участия разработчика.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-инструменты-cicd&#34;&gt;🧰 Инструменты CI/CD&lt;/h2&gt;
+&lt;p&gt;Для реализации CI/CD используются специальные инструменты автоматизации:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab CI/CD&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CircleCI&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travis CI&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эти системы позволяют создавать так называемые &lt;strong&gt;pipeline&lt;/strong&gt; — последовательность этапов сборки, тестирования и развёртывания проекта.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-почему-cicd-важен&#34;&gt;📈 Почему CI/CD важен?&lt;/h2&gt;
+&lt;p&gt;Использование CI/CD даёт множество преимуществ:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ускоряет выпуск новых версий программ&lt;/li&gt;
+&lt;li&gt;повышает качество программного обеспечения&lt;/li&gt;
+&lt;li&gt;уменьшает количество ошибок&lt;/li&gt;
+&lt;li&gt;упрощает командную разработку&lt;/li&gt;
+&lt;li&gt;автоматизирует рутинные процессы&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Сегодня CI/CD является важной частью &lt;strong&gt;DevOps-практик&lt;/strong&gt; и активно используется в большинстве современных IT-проектов.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-заключение&#34;&gt;💡 Заключение&lt;/h2&gt;
+&lt;p&gt;Непрерывное развертывание и интеграция позволяют разработчикам быстрее и безопаснее доставлять программные продукты пользователям.&lt;/p&gt;
+&lt;p&gt;Освоение принципов &lt;strong&gt;CI/CD&lt;/strong&gt; — важный шаг для любого разработчика, который хочет работать с современными технологиями разработки и автоматизации.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
