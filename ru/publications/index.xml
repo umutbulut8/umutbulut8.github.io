@@ -5,12 +5,32 @@
     <link>https://umutbulut8.github.io/ru/publications/</link>
       <atom:link href="https://umutbulut8.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://umutbulut8.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://umutbulut8.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Создание презентаций</title>
+      <link>https://umutbulut8.github.io/ru/publications/03/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://umutbulut8.github.io/ru/publications/03/</guid>
+      <description>&lt;h2 id=&#34;-создание-презентаций&#34;&gt;🎤 Создание презентаций&lt;/h2&gt;
+&lt;p&gt;Подготовка презентаций — важная часть учебного процесса. Это не просто оформление слайдов, а умение структурировать информацию и донести её до аудитории.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Структура&lt;/strong&gt; — основа хорошей презентации. Важно логично выстроить материал: введение, основная часть и выводы. Это помогает слушателям легче воспринимать информацию.&lt;/li&gt;
+&lt;li&gt;🎯 &lt;strong&gt;Краткость&lt;/strong&gt; — на слайдах не должно быть лишнего текста. Лучше использовать ключевые тезисы, а подробности раскрывать устно.&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Дизайн&lt;/strong&gt; — визуальная часть играет большую роль. Чистый и минималистичный стиль делает презентацию более понятной и приятной для восприятия.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;Визуализация&lt;/strong&gt; — графики, схемы и изображения помогают быстрее донести сложные идеи. Особенно это полезно в технических дисциплинах.&lt;/li&gt;
+&lt;li&gt;🗣️ &lt;strong&gt;Выступление&lt;/strong&gt; — важно не просто читать слайды, а объяснять материал своими словами, удерживая внимание аудитории.&lt;/li&gt;
+&lt;li&gt;⏱️ &lt;strong&gt;Практика&lt;/strong&gt; — репетиция перед выступлением помогает чувствовать себя увереннее и уложиться в отведенное время.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Со временем навык создания презентаций развивается, и процесс становится быстрее и эффективнее. Это умение полезно не только в учебе, но и в будущей профессиональной деятельности.&lt;/p&gt;
+&lt;p&gt;А вы любите делать презентации или это больше стресс? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Языки разметки. LaTeX</title>
