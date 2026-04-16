@@ -5,12 +5,53 @@
     <link>https://umutbulut8.github.io/ru/tags/academic/</link>
       <atom:link href="https://umutbulut8.github.io/ru/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://umutbulut8.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Academic</title>
       <link>https://umutbulut8.github.io/ru/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://umutbulut8.github.io/ru/projects/hugo/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://umutbulut8.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт — важный инструмент для современного исследователя. Он позволяет представить свои научные достижения, публикации и проекты в удобной и структурированной форме.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Hugo&lt;/strong&gt; — это быстрый генератор статических сайтов, который позволяет создавать современные веб-страницы без сложной серверной логики.&lt;/li&gt;
+&lt;li&gt;🎓 Тема &lt;strong&gt;Academic (Wowchemy)&lt;/strong&gt; специально разработана для ученых, преподавателей и студентов. Она включает готовые шаблоны для публикаций, резюме, проектов и блогов.&lt;/li&gt;
+&lt;li&gt;⚙️ Создание сайта начинается с установки Hugo и развёртывания шаблона Academic, после чего можно адаптировать структуру под свои задачи.&lt;/li&gt;
+&lt;li&gt;📝 Контент добавляется в формате Markdown, что делает процесс написания статей и страниц простым и удобным.&lt;/li&gt;
+&lt;li&gt;📊 Можно оформить разделы с публикациями, указать DOI, добавить списки конференций и научных работ.&lt;/li&gt;
+&lt;li&gt;🌍 Сайт легко разместить на платформах вроде GitHub Pages, что делает его доступным для широкой аудитории.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Такой сайт становится не просто визитной карточкой, а полноценной платформой для представления научной деятельности.&lt;/p&gt;
+&lt;p&gt;Регулярное обновление контента помогает поддерживать актуальность информации и формировать профессиональный имидж.&lt;/p&gt;
+&lt;p&gt;А есть ли у вас свой академический сайт? 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://umutbulut8.github.io/ru/blog/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://umutbulut8.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя получилась насыщенной и требовательной — пришлось активно включаться в работу и разбираться в более сложных темах.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; сосредоточился на практике: писал больше кода, отрабатывал новые конструкции и старался делать решения более аккуратными и логичными.&lt;/li&gt;
+&lt;li&gt;🧠 В курсе по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; углубился в разбор задач повышенной сложности, что помогло лучше понять принципы оптимизации.&lt;/li&gt;
+&lt;li&gt;🗄️ По &lt;strong&gt;базам данных&lt;/strong&gt; продолжил работу с SQL, уделяя внимание объединению таблиц и работе с вложенными запросами.&lt;/li&gt;
+&lt;li&gt;⚙️ Значительное время заняла самостоятельная работа — поиск ошибок и их исправление стал важной частью обучения.&lt;/li&gt;
+&lt;li&gt;📚 Ознакомился с дополнительными материалами по инструментам разработки, чтобы лучше понимать, как устроены реальные проекты.&lt;/li&gt;
+&lt;li&gt;🌿 Постарался грамотно распределить нагрузку, чтобы сохранить продуктивность на протяжении всей недели.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Постепенно появляется уверенность в своих силах, а сложные темы уже не кажутся такими непонятными, как раньше.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>

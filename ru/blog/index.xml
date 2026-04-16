@@ -5,12 +5,32 @@
     <link>https://umutbulut8.github.io/ru/blog/</link>
       <atom:link href="https://umutbulut8.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://umutbulut8.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://umutbulut8.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://umutbulut8.github.io/ru/blog/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://umutbulut8.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя получилась насыщенной и требовательной — пришлось активно включаться в работу и разбираться в более сложных темах.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; сосредоточился на практике: писал больше кода, отрабатывал новые конструкции и старался делать решения более аккуратными и логичными.&lt;/li&gt;
+&lt;li&gt;🧠 В курсе по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; углубился в разбор задач повышенной сложности, что помогло лучше понять принципы оптимизации.&lt;/li&gt;
+&lt;li&gt;🗄️ По &lt;strong&gt;базам данных&lt;/strong&gt; продолжил работу с SQL, уделяя внимание объединению таблиц и работе с вложенными запросами.&lt;/li&gt;
+&lt;li&gt;⚙️ Значительное время заняла самостоятельная работа — поиск ошибок и их исправление стал важной частью обучения.&lt;/li&gt;
+&lt;li&gt;📚 Ознакомился с дополнительными материалами по инструментам разработки, чтобы лучше понимать, как устроены реальные проекты.&lt;/li&gt;
+&lt;li&gt;🌿 Постарался грамотно распределить нагрузку, чтобы сохранить продуктивность на протяжении всей недели.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Постепенно появляется уверенность в своих силах, а сложные темы уже не кажутся такими непонятными, как раньше.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>

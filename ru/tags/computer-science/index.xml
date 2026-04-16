@@ -5,12 +5,53 @@
     <link>https://umutbulut8.github.io/ru/tags/computer-science/</link>
       <atom:link href="https://umutbulut8.github.io/ru/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Science</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://umutbulut8.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Computer Science</title>
       <link>https://umutbulut8.github.io/ru/tags/computer-science/</link>
     </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://umutbulut8.github.io/ru/publications/04/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://umutbulut8.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🧪 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Современные научные исследования невозможно представить без программирования. Специализированные языки позволяют эффективно обрабатывать данные, проводить вычисления и моделировать сложные системы.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков в научной среде благодаря своей простоте и мощным библиотекам, таким как NumPy, SciPy и Pandas. Он отлично подходит для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;R&lt;/strong&gt; — широко используется в статистике и анализе данных. Предоставляет богатый набор инструментов для работы с графиками и статистическими моделями.&lt;/li&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Julia&lt;/strong&gt; — современный язык, созданный специально для высокопроизводительных вычислений. Сочетает в себе удобство Python и скорость C.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;MATLAB&lt;/strong&gt; — мощная среда для численных вычислений и моделирования, особенно популярная в инженерии и научных исследованиях.&lt;/li&gt;
+&lt;li&gt;🔬 &lt;strong&gt;Fortran&lt;/strong&gt; — один из старейших языков, который до сих пор активно используется в высокопроизводительных научных расчетах благодаря своей эффективности.&lt;/li&gt;
+&lt;li&gt;📐 &lt;strong&gt;C/C++&lt;/strong&gt; — применяются там, где требуется максимальная производительность и контроль над ресурсами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Использование правильного языка зависит от задачи: где-то важна скорость, где-то — удобство и экосистема.&lt;/p&gt;
+&lt;p&gt;Понимание этих инструментов помогает не только решать учебные задачи, но и готовит к работе с реальными научными проектами.&lt;/p&gt;
+&lt;p&gt;А какие языки используете вы? 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://umutbulut8.github.io/ru/blog/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://umutbulut8.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя получилась насыщенной и требовательной — пришлось активно включаться в работу и разбираться в более сложных темах.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; сосредоточился на практике: писал больше кода, отрабатывал новые конструкции и старался делать решения более аккуратными и логичными.&lt;/li&gt;
+&lt;li&gt;🧠 В курсе по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; углубился в разбор задач повышенной сложности, что помогло лучше понять принципы оптимизации.&lt;/li&gt;
+&lt;li&gt;🗄️ По &lt;strong&gt;базам данных&lt;/strong&gt; продолжил работу с SQL, уделяя внимание объединению таблиц и работе с вложенными запросами.&lt;/li&gt;
+&lt;li&gt;⚙️ Значительное время заняла самостоятельная работа — поиск ошибок и их исправление стал важной частью обучения.&lt;/li&gt;
+&lt;li&gt;📚 Ознакомился с дополнительными материалами по инструментам разработки, чтобы лучше понимать, как устроены реальные проекты.&lt;/li&gt;
+&lt;li&gt;🌿 Постарался грамотно распределить нагрузку, чтобы сохранить продуктивность на протяжении всей недели.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Постепенно появляется уверенность в своих силах, а сложные темы уже не кажутся такими непонятными, как раньше.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>
